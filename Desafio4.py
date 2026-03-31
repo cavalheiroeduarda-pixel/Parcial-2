@@ -1,10 +1,10 @@
-# Mostra o menu de opções para o usuário
+# Mostra as opções para o usuário
 print("Calculadora Simples")
 print("1 - Soma")
 print("2 - Subtração")
 print("3 - Multiplicação")
 print("4 - Divisão")
-# Pede para o usuário escolher uma operação
+# Pede que o usuário escolha uma operação
 opcao = input("Escolha a operação (1/2/3/4): ")
 # Pede o primeiro número e converte para float (permite números decimais)
 num1 = float(input("Digite o primeiro número: "))
