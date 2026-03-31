@@ -1,4 +1,4 @@
-# Solicita que o usuário que insira um número
+# O usuário precisa insirir um número
 numero = input("Digite um número: ")
 # Converte a entrada do usuário de string para inteiro
 numero = int(numero)
