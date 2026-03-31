@@ -4,7 +4,7 @@ print("Cálculo de Juros Simples")
 capital = float(input("Digite o valor do capital (R$): "))
 # Pede a taxa de juros (em porcentagem)
 taxa = float(input("Digite a taxa de juros (%): "))
-# Pede o tempo (em meses, anos, etc.)
+# Pede o tempo (em meses e anos.)
 tempo = float(input("Digite o tempo: "))
 # Converte a taxa de porcentagem para decimal
 taxa_decimal = taxa / 100
