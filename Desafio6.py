@@ -2,7 +2,7 @@
 print("Conversor de Tempo")
 print("1 - Converter segundos para h/m/s")
 print("2 - Converter h/m/s para segundos")
-  # Pede a opção do usuário
+  # Pede qual a opção do usuário
 opcao = input("Escolha uma opção (1 ou 2): ")
   # Se a opção for 1: segundos → horas/minutos/segundos
 if opcao == "1":
